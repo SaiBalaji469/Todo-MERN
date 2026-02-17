@@ -8,17 +8,17 @@
 
 This is a Full Stack Todo Application built using the MERN Stack:
 
--   MongoDB\
--   Express.js\
--   React.js\
+-   MongoDB
+-   Express.js
+-   React.js
 -   Node.js
 
 This project demonstrates:
 
--   🔐 User Authentication (Register & Login)\
--   🔑 JWT Token Based Security\
--   👤 Role-Based Authorization (User / Admin)\
--   🛡 Protected Routes\
+-   🔐 User Authentication (Register & Login)
+-   🔑 JWT Token Based Security
+-   👤 Role-Based Authorization (User / Admin)
+-   🛡 Protected Routes
 -   📝 Full CRUD Operations
 
 This is a beginner-friendly and interview-ready full-stack project.
